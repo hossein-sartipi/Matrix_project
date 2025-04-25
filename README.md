@@ -2,7 +2,10 @@
 
 This Python project is designed to perform various operations on matrices. It allows users to create matrices, perform row operations (scaling, row swapping, and row addition/subtraction), and convert matrices into echelon form.
 
-### Features:
+---
+
+## 📌 Features
+
 - **Create Row**: The program allows you to create rows in a matrix, where each element is checked and converted into a rational number.
 - **Create Matrix**: You can input rows of a matrix, ensuring consistency in row lengths and displaying the matrix.
 - **Row Operations**:
@@ -11,21 +14,22 @@ This Python project is designed to perform various operations on matrices. It al
   3. **Row Addition/Subtraction (opp_3)**: Add a constant multiple of one row to another row.
 - **Convert to Echelon Form**: The program can convert any matrix into row echelon form using Gaussian elimination.
 - **Interactive Interface**: Users can interact with the program via the terminal, providing inputs for matrix creation, row operations, and more.
+  
+---
 
-### Requirements:
+## 🛠️ Requirements:
+
 - Python 3.x
 - **SymPy** library for symbolic mathematics (`pip install sympy`)
 
-### How to Use:
+Install with:
 
-1. **Clone the Repository:**
+```bash
+pip install sympy
+```
 
-   ```bash
-   git clone https://github.com/yourusername/matrix-operations.git
-   cd matrix-operations
-2. **Clone the Repository:**
-- Execute the main.py file to start the interactive matrix operations interface.
-  ```bash
-  python main.py
-- The program will prompt you to input matrix rows, and then you can perform various operations such as scaling, swapping rows, adding rows, or converting the matrix into echelon form.
+## 🚀 How to Use:
+
+
+
 
