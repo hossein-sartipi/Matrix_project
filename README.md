@@ -2,6 +2,17 @@
 
 This Python project is designed to perform various operations on matrices. It allows users to create matrices, perform row operations (scaling, row swapping, and row addition/subtraction), and convert matrices into echelon form.
 
+# 🎥 Demo
+
+## using operations:
+![opp Demos](Demo1.gif)
+
+---
+
+## using echelon function:
+![echelon Demo](Demo2.gif)
+
+
 ---
 
 ## 📌 Features
