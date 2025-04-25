@@ -23,3 +23,9 @@ This Python project is designed to perform various operations on matrices. It al
    ```bash
    git clone https://github.com/yourusername/matrix-operations.git
    cd matrix-operations
+2. **Clone the Repository:**
+- Execute the main.py file to start the interactive matrix operations interface.
+  ```bash
+  python main.py
+- The program will prompt you to input matrix rows, and then you can perform various operations such as scaling, swapping rows, adding rows, or converting the matrix into echelon form.
+
